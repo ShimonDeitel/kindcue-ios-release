@@ -18,9 +18,9 @@
   },
   "subscriptionGroups": [
     {
-      "id": "lattice_pro_group",
+      "id": "kindcue_pro_group",
       "localizations": [],
-      "name": "Lattice Pro",
+      "name": "Kindcue Pro",
       "subscriptions": [
         {
           "adHocOffers": [],
@@ -28,19 +28,19 @@
           "displayPrice": "0.99",
           "familyShareable": false,
           "groupNumber": 1,
-          "internalID": "lattice_pro_monthly_id",
+          "internalID": "kindcue_pro_monthly_id",
           "introductoryOffer": null,
           "localizations": [
             {
-              "description": "The full daily logic-grid archive, an expert grid each day, bigger grids, hints and themes.",
-              "displayName": "Lattice Pro",
+              "description": "Themed decks, reflections, history log, morning reminders.",
+              "displayName": "Kindcue Pro",
               "locale": "en_US"
             }
           ],
-          "productID": "lattice_pro_monthly",
+          "productID": "kindcue_pro_monthly",
           "recurringSubscriptionPeriod": "P1M",
-          "referenceName": "Lattice Pro Monthly",
-          "subscriptionGroupID": "lattice_pro_group",
+          "referenceName": "Kindcue Pro Monthly",
+          "subscriptionGroupID": "kindcue_pro_group",
           "type": "RecurringSubscription"
         }
       ]
